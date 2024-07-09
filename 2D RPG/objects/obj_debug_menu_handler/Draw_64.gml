@@ -21,7 +21,7 @@ if global.health = 0 {
 	draw_set_color(c_gray);
     draw_rectangle(button_x, button_y, button_x + button_width, button_y + button_height, false); // Draw a gray button
     draw_set_color(c_white);
-    draw_text_transformed(button_x + button_width / 6, button_y + button_height / 6, "Reset Game",0.75,0.75,0); // Draw text on the button
+    draw_text_transformed(button_x + button_width / 6, game_over_y + 55, "   Reset Game",0.75,0.75,0); // Draw text on the button
 }
 
 

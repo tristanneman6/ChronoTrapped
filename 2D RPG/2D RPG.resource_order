@@ -43,6 +43,7 @@
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_warp_block","order":7,"path":"sprites/spr_warp_block/spr_warp_block.yy",},
     {"name":"spr_warp_transition","order":8,"path":"sprites/spr_warp_transition/spr_warp_transition.yy",},
+    {"name":"spr_timewarp","order":13,"path":"sprites/spr_timewarp/spr_timewarp.yy",},
     {"name":"ts_outside_tiles","order":1,"path":"tilesets/ts_outside_tiles/ts_outside_tiles.yy",},
   ],
 }

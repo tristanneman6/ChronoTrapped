@@ -68,6 +68,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_warp_block","path":"sprites/spr_warp_block/spr_warp_block.yy",},},
     {"id":{"name":"spr_warp_transition","path":"sprites/spr_warp_transition/spr_warp_transition.yy",},},
+    {"id":{"name":"spr_timewarp","path":"sprites/spr_timewarp/spr_timewarp.yy",},},
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
     {"id":{"name":"ts_outside_tiles","path":"tilesets/ts_outside_tiles/ts_outside_tiles.yy",},},
   ],
