@@ -1,5 +1,5 @@
 /// @description Drawing Debug Menu
-draw_set_font(Font_1)
+draw_set_font(global.font_main)
 draw_set_color(c_yellow)
 
 

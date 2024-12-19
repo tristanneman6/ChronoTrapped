@@ -1,4 +1,4 @@
-if keyboard_check(vk_f4) {
+if keyboard_check_pressed(vk_f4) {
 	if window_get_fullscreen() == false {
 		window_set_fullscreen(true)
 	} else {

@@ -27,6 +27,7 @@
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"parallax_backgrounds","folderPath":"folders/Sprites/parallax_backgrounds.yy","name":"parallax_backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Start Animation","folderPath":"folders/Start Animation.yy","name":"Start Animation","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -34,7 +35,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"2D RPG",
   "resources":[
@@ -59,6 +60,7 @@
     {"id":{"name":"rm_outside_2","path":"rooms/rm_outside_2/rm_outside_2.yy",},},
     {"id":{"name":"rm_outside_3","path":"rooms/rm_outside_3/rm_outside_3.yy",},},
     {"id":{"name":"rm_secret_room","path":"rooms/rm_secret_room/rm_secret_room.yy",},},
+    {"id":{"name":"rm_start_animation","path":"rooms/rm_start_animation/rm_start_animation.yy",},},
     {"id":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"bg_forest_side","path":"sprites/bg_forest_side/bg_forest_side.yy",},},
@@ -73,6 +75,7 @@
     {"id":{"name":"spr_player_left","path":"sprites/spr_player_left/spr_player_left.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},},
+    {"id":{"name":"spr_start_animation1","path":"sprites/spr_start_animation1/spr_start_animation1.yy",},},
     {"id":{"name":"spr_timewarp","path":"sprites/spr_timewarp/spr_timewarp.yy",},},
     {"id":{"name":"spr_title_menu_background","path":"sprites/spr_title_menu_background/spr_title_menu_background.yy",},},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},},
@@ -85,6 +88,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_start_animation","path":"rooms/rm_start_animation/rm_start_animation.yy",},},
     {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"rm_bed_room","path":"rooms/rm_bed_room/rm_bed_room.yy",},},
     {"roomId":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},

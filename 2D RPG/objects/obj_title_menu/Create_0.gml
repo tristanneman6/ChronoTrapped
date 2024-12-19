@@ -16,7 +16,7 @@ option[1, 0] = "Controls"
 option[1, 1] = "Back"
 
 //controls menu
-option[2, 0] = "Fulscreen = F4"
+option[2, 0] = "Fullscreen = F4"
 option[2, 1] = "Move = Arrow Keys"
 option[2, 2] = "Accept = Enter"
 option[2, 3] = "Quit = Hold Esc"
