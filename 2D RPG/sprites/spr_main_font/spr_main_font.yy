@@ -153,7 +153,7 @@
     },
     "name":"spr_main_font",
     "playback":1,
-    "playbackSpeed":3.0,
+    "playbackSpeed":95.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
