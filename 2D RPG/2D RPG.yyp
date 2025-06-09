@@ -76,6 +76,7 @@
     {"id":{"name":"spr_house_player","path":"sprites/spr_house_player/spr_house_player.yy",},},
     {"id":{"name":"spr_house_tiles","path":"sprites/spr_house_tiles/spr_house_tiles.yy",},},
     {"id":{"name":"spr_main_font","path":"sprites/spr_main_font/spr_main_font.yy",},},
+    {"id":{"name":"spr_menu_1","path":"sprites/spr_menu_1/spr_menu_1.yy",},},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
     {"id":{"name":"spr_outside_tiles","path":"sprites/spr_outside_tiles/spr_outside_tiles.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
