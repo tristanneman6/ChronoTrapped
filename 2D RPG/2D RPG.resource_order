@@ -22,6 +22,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_bed","order":2,"path":"objects/obj_bed/obj_bed.yy",},
+    {"name":"obj_campfire","order":13,"path":"objects/obj_campfire/obj_campfire.yy",},
     {"name":"obj_debug_menu_handler","order":7,"path":"objects/obj_debug_menu_handler/obj_debug_menu_handler.yy",},
     {"name":"obj_fullscreen","order":9,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
     {"name":"obj_house_player","order":6,"path":"objects/obj_house_player/obj_house_player.yy",},
@@ -37,6 +38,7 @@
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_warp_block","order":3,"path":"objects/obj_warp_block/obj_warp_block.yy",},
     {"name":"obj_warp","order":4,"path":"objects/obj_warp/obj_warp.yy",},
+    {"name":"Embers","order":1,"path":"particles/Embers/Embers.yy",},
     {"name":"rm_bed_room","order":1,"path":"rooms/rm_bed_room/rm_bed_room.yy",},
     {"name":"rm_outside_2","order":1,"path":"rooms/rm_outside_2/rm_outside_2.yy",},
     {"name":"rm_outside_3","order":2,"path":"rooms/rm_outside_3/rm_outside_3.yy",},
@@ -46,6 +48,7 @@
     {"name":"rm_start_animation","order":1,"path":"rooms/rm_start_animation/rm_start_animation.yy",},
     {"name":"bg_forest_top","order":1,"path":"sprites/bg_forest_top/bg_forest_top.yy",},
     {"name":"spr_bed","order":6,"path":"sprites/spr_bed/spr_bed.yy",},
+    {"name":"spr_campfire","order":19,"path":"sprites/spr_campfire/spr_campfire.yy",},
     {"name":"spr_heart","order":16,"path":"sprites/spr_heart/spr_heart.yy",},
     {"name":"spr_house_player","order":11,"path":"sprites/spr_house_player/spr_house_player.yy",},
     {"name":"spr_house_tiles","order":5,"path":"sprites/spr_house_tiles/spr_house_tiles.yy",},
