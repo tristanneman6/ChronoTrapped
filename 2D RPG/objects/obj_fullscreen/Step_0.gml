@@ -3,6 +3,6 @@ if keyboard_check_pressed(vk_f4) {
 		window_set_fullscreen(true)
 	} else {
 		window_set_fullscreen(false)
-		window_set_size(288, 216)
+		window_set_size(864, 648)
 		}
 }
